@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;simpleUART&apos;" deleteContents="true" description="Delete resource &apos;simpleUART&apos;" element1="/simpleUART" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1482080412447"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;simpleUART&apos;" deleteContents="true" description="Delete resource &apos;simpleUART&apos;" element1="/simpleUART" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1482080412447"/>&#x0A;<refactoring comment="Delete resource &apos;interrupt_UART&apos;" deleteContents="false" description="Delete resource &apos;interrupt_UART&apos;" element1="/interrupt_UART" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1482101585962"/>&#x0A;<refactoring comment="Delete resource &apos;simpleUART&apos;" deleteContents="false" description="Delete resource &apos;simpleUART&apos;" element1="/simpleUART" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1482101593600"/>
 </session>
